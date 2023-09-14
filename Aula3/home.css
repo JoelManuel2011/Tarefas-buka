@@ -76,6 +76,36 @@ width: 400px;
 
 footer{
     background-color:#5C0F8B;
-    height: 150px;
-    justify-content: space-between;
+    color: white;
+}
+footer:hover{
+    background-color:#FC7E00;
+}
+
+.rp{
+    display: flex;
+    font-size: 15px;
+    height: 300px;
+    justify-content: space-around;
+}
+.rp h3{ 
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    font-size: 15px;
+}
+.rp h3:hover{
+    color:#5C0F8B;
+}
+.rp a{
+    display: flex;
+    color: #FC7E00;
+    text-decoration: none;
+    justify-content: left;
+}
+.rs{
+}
+.rs img{
+    width: 20px;
+
 }
