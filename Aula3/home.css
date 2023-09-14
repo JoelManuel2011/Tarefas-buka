@@ -104,8 +104,23 @@ footer:hover{
     justify-content: left;
 }
 .rs{
+    background-color: aqua;
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
 }
-.rs img{
-    width: 20px;
+.rs a{
+    height: 30px;
+    margin-top: 50px;
+    
+}
 
+.dr{
+    color: #FC7E00;
+    font-size: 12px;
+    display: flex;
+    justify-content:space-between;
+    margin-left: 70px;
+    margin-right: 70px;
 }
